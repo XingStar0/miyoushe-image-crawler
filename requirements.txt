@@ -1,0 +1,23 @@
+# 网络请求
+requests>=2.31.0
+
+# 进度条显示
+tqdm>=4.66.0
+
+# GUI界面
+tkinter  # 通常包含在Python标准库中，不需要单独安装
+
+# 类型提示支持
+typing  # Python 3.5+已包含，不需要单独安装
+
+# 日期时间处理
+datetime  # Python标准库，不需要单独安装
+
+# 系统相关
+platform  # Python标准库，不需要单独安装
+subprocess  # Python标准库，不需要单独安装
+webbrowser  # Python标准库，不需要单独安装
+os  # Python标准库，不需要单独安装
+re  # Python标准库，不需要单独安装
+json  # Python标准库，不需要单独安装
+threading  # Python标准库，不需要单独安装 
