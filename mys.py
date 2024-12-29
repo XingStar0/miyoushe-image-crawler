@@ -547,7 +547,7 @@ class MysUI:
         if uid and uid != input_text:
             self.uid_var.set(uid)
             self.hint_label.config(
-                text=f"已自动提取用户ID: {uid} (点击'打开米游社主页'查看原页面)", 
+                text=f"已自动提取用户ID: {uid}", 
                 foreground='green'
             )
         elif not input_text:
